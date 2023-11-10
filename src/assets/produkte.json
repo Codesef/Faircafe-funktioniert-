@@ -2,11 +2,19 @@
   {
     "bezeichnung": "Croissant",
     "beschreibung": "knuspriges Gebäck",
-    "preis": 2.8
+    "preis": 2.8,
+    "bildURL": "https://bit.ly/3spmcLl"
   },
   {
     "bezeichnung": "Knifte",
     "beschreibung": "Brötchen mit Salami belegt",
-    "preis": 2.9
-  }
+    "preis": 2.9,
+    "bildURL": "https://bit.ly/47K8Fx1"
+  },
+  {
+    "bezeichnung": "Toast Hawaii",
+    "beschreibung": "Toast mit Ananas und Schinken, mit Käse überbacken",
+    "preis": 3.5,
+    "bildURL": "https://bit.ly/3QPvHN4"
+  }  
 ]
