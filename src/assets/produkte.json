@@ -1,0 +1,12 @@
+[
+  {
+    "bezeichnung": "Croissant",
+    "beschreibung": "knuspriges Gebäck",
+    "preis": 2.8
+  },
+  {
+    "bezeichnung": "Knifte",
+    "beschreibung": "Brötchen mit Salami belegt",
+    "preis": 2.9
+  }
+]

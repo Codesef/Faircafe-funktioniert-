@@ -1,0 +1,12 @@
+
+<ul class="book-list">
+<li *ngFor="let produkt of produkte">
+  <div class="list-item">
+    <img *ngIf="produkt.thumbnailUrl" [src]="produkt.thumbnailUrl" alt="Cover" />
+     <h2>{{ produkt.bezeichnung }}</h2>
+     <p role="doc-subtitle">
+       {{ produkt.beschreibung }}
+     </p>
+  </div>
+</li>
+</ul>
